@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GestionareComenz:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GestionareComenz_jar</output-path>
+    <root id="archive" name="GestionareComenz.jar">
+      <element id="module-output" name="GestionareComenz" />
+    </root>
+  </artifact>
+</component>
